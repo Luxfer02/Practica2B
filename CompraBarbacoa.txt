@@ -3,5 +3,6 @@
 - Chorizo
 - Costillas
 - Carne
+- Pan
 - Carbon
 - Pastillas
